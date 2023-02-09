@@ -1,3 +1,6 @@
+# Checkout the improved version **[CSCdiscordbot-V2](https://github.com/cscpsut/CSCdiscordbot-V2)** it uses Google Sheets API
+<br>
+
 # CSCdiscordbot
 
 Cyber Security Club's discord bot. A remake of **[CSCbot](https://github.com/Hiexy/CSCBot)**
